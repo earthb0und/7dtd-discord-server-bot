@@ -1,4 +1,4 @@
-# 7dtd-server-bot
+# 7dtd-discord-server-bot
 
 a discord bot that has the ability to control a 7DTD linux GSM based server
 
