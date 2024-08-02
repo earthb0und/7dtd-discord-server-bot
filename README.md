@@ -13,10 +13,10 @@ Provide your token WITHOUT the quotes ''.
 6. You can use commands like '-start server' which will directly run the command for starting the server. The bot has some mitigation against command expolotation but like most things like this you should be very cautious with who you give this type of priviledge to. Perfect for private servers I wouldn't use this on a community discord without privileges.
 
 # Commands
-'''
+```
 -bot status
 -start server
 -stop server
 -restart server
 -details
-'''
+```
